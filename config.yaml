@@ -2,7 +2,7 @@ baseURL: /
 languageCode: en-us
 paginate: 6
 theme: portio-hugo-data-science
-title: Matt's Data Science Portfolio
+title: Plamen's Data Science Portfolio
 menu:
   main:
     - name: Home
@@ -29,13 +29,13 @@ menu:
       weight: 2
 params:
   blogPageURL: blog
-  contactButtonLabel: Hire Matt Today
+  contactButtonLabel: Contact Plamen
   contactLink: '#contact'
-  copyright: All right reserved copyright © [Your Name Here] [Year]
-  footerLogo: images/site-navigation/logo-matt.png
+  copyright: All right reserved copyright © Plamen Rabadzhiyski 2023
+  footerLogo: images/site-navigation/PlamenLogo.png
   formspreeURL: YOUR FORMSPREE URL
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
-  logo: images/site-navigation/logo-matt.png
+  logo: images/site-navigation/PlamenLogo.png
   social:
     - icon: fa-linkedin-square
       url: https://www.linkedin.com/
