@@ -18,7 +18,7 @@ menu:
       url: '#resume'
       weight: 5
     - name: Blog
-      url: blog
+      url: https://data-science-ai.com/blog/
       weight: 6
   sitemap:
     - name: Home

@@ -9,12 +9,12 @@ shortDescription: This application helps Marketing & Sales identify trends in pr
 solution: This application helps Marketing & Sales identify trends in product demand
   using machine learning. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
 thumbnail: images/portfolio/app_sales_demand_forecast.jpg
-title: Sales Demand Forecast Application
+title: Data Science Portfolio
 ---
 
 
 
-#### [View Demo Dashboard](https://business-science.shinyapps.io/sales_dashboard_demand_forecast/)
+#### [Check My Data Science Portfolio](https://shiny.plamenr.com/)
 
 ## Project Requirements
 
