@@ -4,13 +4,14 @@ topTitle: My Resume
 title: >
   ## My Experience & Education
 
-  Over 15+ years of experience working with companies from all over the world.
+  Leveraging a diverse skill set to help businesses transform their operations, enhance productivity, 
+  and drive growth through the power of data and AI.
 
-buttonName: "Download Resume PDF"
-buttonTarget: "/cv/resume-matt.pdf"
+# buttonName: "Download Resume PDF"
+# buttonTarget: "/cv/resume-matt.pdf"
 
 tab1Name: Experience
-tab2Name: Education
+tab2Name: Education/Certificates
 tab1Target: experience
 tab2Target: education
 
@@ -18,55 +19,87 @@ tab2Target: education
 experience:
   - content: >
   
-      ### Founder
+      ### Data Science Consultant
       
-      #### [Business Science](https://www.business-science.io/) 
+      #### [Data Science AI](https://data-science-ai.com/) 
       
-      - Has grown the program to __3000+ students__ learning R and Python for business.
+      - Helps companies unlock their growth potential through data science and AI
       
-      - Leads the data science curriculum development. 
+      - Translates complex technical concepts into actionable insights for business leaders.
       
-      - Mentors students leading to getting jobs and career-advancement. (See [Testimonials](#testimonial))
-    time: 2018-Present
+      - Works with diverse businesses to design and build strategic data-driven decision-making systems 
+      (See [Testimonials](#testimonial)).
+    time: 2023-Present
   - content: >
-      ### Director of Product Engineering & Market Development
+      ### Senior Data Scientist / Data Officer
       
-      #### Bonney Forge
+      #### Blankfactor
+      
+      - Developed data applications, turning business needs into data solutions.
 
-      - Used predictive analytics to increase revenue from __$3M/year to $15M/year (5X increase).__
-    time: 2017-2018
+      - Identified __$640k in turnover savings__; launched an R & Python web app with H2O and tidy models.
+      
+      - Designed a Snowflake cloud architecture, enhancing data science and AI integration.
+      
+    time: 2022-2023
   - content: >
-      ### Manager of Sales Engineering 
+      ### Projects and Data Lead
 
-      #### Bonney Forge
+      #### iCOVER Services
 
-      - Developed lead-scoring prediction solution that helped to __increase revenue 5X.__ 
+      - Led product and project teams, enhanced product development and data management, 
+      and achieved 100% project visibility with Jira/JSD.
       
-      - Implemented database to track sales quotations & Shiny Web App interface for user input.
+      - Boosted forecasting using machine learning for customer clustering and product price predictions.
       
-      - Trained technical sales team on how to input database via Shiny App
+      - Launched global data science tools using Python/R, MySQL, Tableau Online, and MS Azure.
       
-      - Used machine learning to predict likelihood of purchase (LOP)
-    time: 2014-2017
-  
+    time: 2019-2022
+  - content: >
+      ### Project Portfolio Lead
+
+      #### Cargill
+
+      - Led project managers at Cargill, focusing on migrations, Lean Six Sigma, and tool rollouts.
+      
+      - Reduced email inquiries by 70% and cut reporting prep time by 90% using a Salesforce app.
+      
+      - Achieved __$420k in efficiency__ for the EMEA site (1,200 employees) through Lean Six Sigma leadership.
+      
+    time: 2016-2019 
+  - content: >
+      ### Quality Program Manager / Business Analyst
+
+      #### HP Inc.
+
+      - Directed a reporting team managing an ETL pipeline linked to SAP.
+      
+      - Secured 100% uptime during disruptions for 20 EMEA sites with a business continuity plan.
+      
+      - Coordinated business analysts to guarantee timely delivery of all reports.
+      
+    time: 2011-2016 
 
 
 education:
   - content: >
       #### Master of Business Administration (MBA)
 
-      Penn State University
+      Nantes University, France
       
-    time: 2015
+    time: 2009
   - content: >
-      #### Master of Industrial Engineering
+      #### Technical Certifications
 
-      University of Pittsburgh
+      Data Scientist Professional, MS Azure AI Fundamentals, Snowflake SnowPro Core, 
+      Data and AI Technical Strategist
     
-    time: 2010
+    time: 2019-Present
   - content: >
-      #### Bachelor of Mechanical Engineering
+      #### Process & Project Management
 
-      Penn State University
-    time: 2006
+      PMP, Lean Six Sigma Master Black Belt, Professional Scrum with Kanban, 
+      Professional Scrum Master I, PRINCE2 Practitioner
+      
+    time: 2011-Present
   

@@ -1,45 +1,39 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Services
 title: >
-  ## Creative Services
+  ## What I can offer
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  10+ years of exprience designing complex systems, improving processes and deploying data science solutions. 
+  For more details check my [consulting site](https://data-science-ai.com/).
 service:
   - content: >
-      #### UI/UX Design 
+      #### Data Analysis and Insights 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Dive deep into your data, unearth meaningful insights, and make decisions that resonate.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Predictive Modeling
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Use machine learning to anticipate market trends, be proactive, and stay always one step ahead of your competition.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Data-Driven Decision Making
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Ground your decisions in data, ensuring they are informed, strategic, and yield the desired results.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Data Strategy Consulting
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Build a robust data infrastructure, aligning your data vision with business objectives.
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Enterprise Architecture
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Align business processes, systems, and technology for optimal performance and adaptability.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Data Science Training
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Empower your team with the knowledge and skills to navigate the complex world of data science.
     image: images/service/web.svg

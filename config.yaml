@@ -11,20 +11,23 @@ menu:
     - name: About
       url: '#about'
       weight: 2
+    - name: Services
+      url: '#service'
+      weight: 3
     - name: Portfolio
       url: '#portfolio'
       weight: 4
     - name: Resume
       url: '#resume'
       weight: 5
-    - name: Blog
-      url: https://data-science-ai.com/blog/
+    - name: Ebooks
+      url: 'blog'
       weight: 6
   sitemap:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
+    - name: eBooks
       url: blog
       weight: 2
 params:
@@ -38,11 +41,11 @@ params:
   logo: images/site-navigation/PlamenLogo.png
   social:
     - icon: fa-linkedin-square
-      url: https://www.linkedin.com/
+      url: https://www.linkedin.com/in/plamen-rabadzhiyski/
       weight: 1
-    - icon: fa-youtube-square
-      url: https://www.youtube.com/
-      weight: 2
+    # - icon: fa-youtube-square
+    #   url: https://www.youtube.com/
+      # weight: 2
     - icon: fa-twitter-square
-      url: https://twitter.com/
+      url: https://twitter.com/p_rabadzhiyski
       weight: 3

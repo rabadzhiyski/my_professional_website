@@ -2,18 +2,19 @@
 enable: true
 topTitle: My Skills
 content: >
-  ## Here's where I can help
+  ## Here's Where I Can Help
 
-  I have a strong background in data science, machine learning, and business problem-solving. I mainly use and teach R and Python. 
+  I have a strong background in data science, machine learning, enterprise architecture, and business problem-solving. 
+  I mainly use R and Python. 
 
-image: images/hero/user-picture-2.jpg
+image: images/hero/photo_twitter_2.jpg
 
 skill:
   - title: R
     percent: 90
   - title: Python
+    percent: 80
+  - title: Shiny Apps
     percent: 90
-  - title: Shiny/Dash Apps
-    percent: 90
-  - title: Spark
+  - title: Cloud Technologies
     percent: 75
