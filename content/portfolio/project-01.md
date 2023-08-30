@@ -1,15 +1,12 @@
 ---
-categories: Web Apps, Time Series
-challenge: Marketing and Sales need accurate forecasts for various combinations of
-  customer(s) and product(s).
-date: "2020-07-13T12:49:27.000+06:00"
-project: '[View Sales Dashboard](https://business-science.shinyapps.io/sales_dashboard_demand_forecast/)'
-shortDescription: This application helps Marketing & Sales identify trends in product
-  demand.
-solution: This application helps Marketing & Sales identify trends in product demand
-  using machine learning. The application is built in the [5-Course R-Track System](https://university.business-science.io/p/5-course-bundle-machine-learning-web-apps-time-series).
-thumbnail: images/portfolio/app_sales_demand_forecast.jpg
-title: Data Science Portfolio
+categories: Web Apps, Machine Learning
+challenge: HR department cannot detect and proactively address employee turnover within the company. That leads to many $ lost in productivity gains.
+date: "2022-12-12T12:49:27.000+06:00"
+project: Employee Segmentation
+shortDescription: This application helps HR cluster employees in groups based on attrition.
+solution: This application helps HR detects which groups leave faster by inspecting trends. Unsupervised machine learning techniques are used to group employees.
+thumbnail: images/portfolio/employee_turnover.png
+title: HR Employee Segmentation
 ---
 
 
@@ -20,9 +17,8 @@ title: Data Science Portfolio
 
 ✅ Shiny Web Applications
 
-✅ HTML and CSS
+✅ R and Python
 
-✅ Sales Demand Forecast using Machine Learning (XGBoost)
+✅ Unsupervised Machine Learning (DBSCAN)
 
-✅ Geograhic Visualization
 
