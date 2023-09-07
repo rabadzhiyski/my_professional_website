@@ -2,7 +2,7 @@ baseURL: /
 languageCode: en-us
 paginate: 6
 theme: portio-hugo-data-science
-title: Plamen's Data Science Portfolio
+title: Plamen's Site
 menu:
   main:
     - name: Home
@@ -37,7 +37,7 @@ params:
   copyright: All right reserved copyright © Plamen Rabadzhiyski 2023
   footerLogo: images/site-navigation/PlamenLogo.png
   formspreeURL: https://formspree.io/f/xjvqrvbb
-  googleAnalytics: G-5E5Z8388N6
+  googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/PlamenLogo.png
   social:
     - icon: fa-linkedin-square
