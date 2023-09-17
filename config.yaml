@@ -2,7 +2,7 @@ baseURL: /
 languageCode: en-us
 paginate: 6
 theme: portio-hugo-data-science
-title: Plamen's Site
+title: Plamen Rabadzhiyski
 menu:
   main:
     - name: Home
