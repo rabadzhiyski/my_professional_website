@@ -23,6 +23,9 @@ menu:
     - name: Ebooks
       url: 'blog'
       weight: 6
+    - name: Blog
+      url: https://data-science-ai.com/blog/
+      weight: 7
   sitemap:
     - name: Home
       url: /
@@ -30,11 +33,12 @@ menu:
     - name: eBooks
       url: blog
       weight: 2
+
 params:
   blogPageURL: blog
   contactButtonLabel: Contact Plamen
   contactLink: '#contact'
-  copyright: All right reserved copyright © Plamen Rabadzhiyski 2023
+  copyright: All right reserved copyright © Plamen Rabadzhiyski 2024
   footerLogo: images/site-navigation/PlamenLogo.png
   formspreeURL: https://formspree.io/f/xjvqrvbb
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
@@ -49,3 +53,6 @@ params:
     - icon: fa-twitter-square
       url: https://twitter.com/p_rabadzhiyski
       weight: 3
+      
+      
+  

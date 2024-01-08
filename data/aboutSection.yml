@@ -12,9 +12,10 @@ content: >
   
   
   My area of focus is applying data science to business. I create value for companies by understanding the financial cost of problems and delivering a return-on-investment with my solutions. I enjoy learning, working with stakeholders, and making better decisions with data.
-button1Name: LinkedIn
-# button2Name: Download CV
-button1Target: https://www.linkedin.com/in/plamen-rabadzhiyski/
+button1Name: Consulting
+button2Name: Data Science Projects
+button1Target: https://data-science-ai.com/
 # button2Target: "/cv/resume-matt.pdf"
+button2Target: https://shiny.plamenr.com/
 image: images/hero/photo_twitter.jpg
 imageMaskPosition: 70px 0px

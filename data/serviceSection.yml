@@ -18,9 +18,9 @@ service:
       Use machine learning to anticipate market trends, be proactive, and stay always one step ahead of your competition.
     image: images/service/web.svg
   - content: >
-      #### Data-Driven Decision Making
+      #### AI Business Process Improvement
 
-      Ground your decisions in data, ensuring they are informed, strategic, and yield the desired results.
+      Enable better, faster, and more automated business processes by using Artificial Intelligence to enhance efficiency and otucomes.
     image: images/service/creative.svg
   - content: >
       #### Data Strategy Consulting

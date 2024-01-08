@@ -7,8 +7,9 @@ title: >
   Leveraging a diverse skill set to help businesses transform their operations, enhance productivity, 
   and drive growth through the power of data and AI.
 
-# buttonName: "Download Resume PDF"
+buttonName: "Linkedin"
 # buttonTarget: "/cv/resume-matt.pdf"
+buttonTarget: "https://www.linkedin.com/in/plamen-rabadzhiyski/"
 
 tab1Name: Experience
 tab2Name: Education/Certificates
