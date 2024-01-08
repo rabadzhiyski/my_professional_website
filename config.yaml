@@ -20,7 +20,7 @@ menu:
     - name: Experience
       url: '#resume'
       weight: 5
-    - name: Ebooks
+    - name: Useful
       url: 'blog'
       weight: 6
     - name: Blog
