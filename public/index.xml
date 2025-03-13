@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plamen Rabadzhiyski</title>
+    <link>//localhost:4321/</link>
+    <description>Recent content on Plamen Rabadzhiyski</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 12:49:27 +0600</lastBuildDate>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Driven Success</title>
+      <link>//localhost:4321/blog/data-driven-success/</link>
+      <pubDate>Sun, 13 Aug 2023 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/blog/data-driven-success/</guid>
+      <description>&lt;p&gt;Unleashing sales and profits with data science &lt;a href=&#34;https://data-science-ai.ck.page/data-driven-success&#34;&gt;GET YOUR FREE COPY NOW&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;data-science-isnt-an-exclusive-club-for-tech-giants-its-for-every-business-ready-to-evolve&#34;&gt;Data science isn&amp;rsquo;t an exclusive club for tech giants. It&amp;rsquo;s for every business ready to evolve.&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Data-Driven Success is your roadmap to leveraging data science, even if you&amp;rsquo;re not a tech guru. Delve into this guide and:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Revolutionize Your Marketing:&lt;/strong&gt; Harness data to reach your audience more effectively and efficiently.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Strategize Your Pricing:&lt;/strong&gt; Use data insights to price your products or services for maximum profitability.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HR Employee Segmentation</title>
+      <link>//localhost:4321/portfolio/project-01/</link>
+      <pubDate>Mon, 12 Dec 2022 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-01/</guid>
+      <description>&lt;h4 id=&#34;check-my-data-science-portfolio&#34;&gt;&lt;a href=&#34;https://shiny.plamenr.com/&#34;&gt;Check My Data Science Portfolio&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h2 id=&#34;project-requirements&#34;&gt;Project Requirements&lt;/h2&gt;&#xA;&lt;p&gt;✅ Shiny Web Applications&lt;/p&gt;&#xA;&lt;p&gt;✅ R and Python&lt;/p&gt;&#xA;&lt;p&gt;✅ Unsupervised Machine Learning (DBSCAN)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product Price Recommendation</title>
+      <link>//localhost:4321/portfolio/project-02/</link>
+      <pubDate>Tue, 01 Nov 2022 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-02/</guid>
+      <description>&lt;h4 id=&#34;check-my-data-science-portfolio&#34;&gt;&lt;a href=&#34;https://shiny.plamenr.com/&#34;&gt;Check My Data Science Portfolio&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h2 id=&#34;project-requirements&#34;&gt;Project Requirements&lt;/h2&gt;&#xA;&lt;p&gt;✅ Shiny Web Applications&lt;/p&gt;&#xA;&lt;p&gt;✅ R&lt;/p&gt;&#xA;&lt;p&gt;✅ Product Gap Analysis using Machine Learning (XGBoost)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

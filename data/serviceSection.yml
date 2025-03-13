@@ -4,36 +4,38 @@ topTitle: Services
 title: >
   ## What I can offer
 
-  10+ years of exprience designing complex systems, improving processes and deploying data science solutions. 
-  For more details check my [consulting site](https://data-science-ai.com/).
+  10+ years of exprience designing complex systems, improving processes and deploying data science solutions.
+  Interested in working with me? 
+  [LET'S TALK](https://data-science-ai.com/applynow/)!
 service:
   - content: >
-      #### Data Analysis and Insights 
+      #### The AI Business Scientist Newsletter 
 
-      Dive deep into your data, unearth meaningful insights, and make decisions that resonate.
+      Smart AI and data science insights for busy professionals who don't have time for hype. 
+      Jump on board and get the ultimate AI Toolkit for FREE: 100+ expert vetted 
+      AI tools to make your workday easier.
+      
+      
+      [SIGN UP](https://data-science-ai.kit.com/newsletter)
     image: images/service/ui-ux.svg
+    
   - content: >
-      #### Predictive Modeling
+      #### The Data and AI Masterclass
 
-      Use machine learning to anticipate market trends, be proactive, and stay always one step ahead of your competition.
-    image: images/service/web.svg
-  - content: >
-      #### AI Business Process Improvement
-
-      Enable better, faster, and more automated business processes by using Artificial Intelligence to enhance efficiency and otucomes.
+      Unique course that helps busy professionals achieve confidence in data and AI in 15 days or less, 
+      without needing to become tech nerds. Remove your frustration and information overwhelm.
+      
+      
+      [JOIN THE WAIT LIST](https://data-science-ai.kit.com/waitlist) 
     image: images/service/creative.svg
-  - content: >
-      #### Data Strategy Consulting
 
-      Build a robust data infrastructure, aligning your data vision with business objectives.
+  - content: >
+      #### Data and AI Strategy Consulting
+
+      Align AI solutions with business goals. Identify business opportunities. 
+      Integrate business processes, systems, and technology for optimal performance and adaptability.
+      
+      
+      [MORE DETAILS](https://data-science-ai.com/)
+      
     image: images/service/branding.svg
-  - content: >
-      #### Enterprise Architecture
-
-      Align business processes, systems, and technology for optimal performance and adaptability.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Data Science Training
-
-      Empower your team with the knowledge and skills to navigate the complex world of data science.
-    image: images/service/web.svg

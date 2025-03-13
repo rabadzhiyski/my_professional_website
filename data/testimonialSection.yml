@@ -1,22 +1,39 @@
 ---
-enable: false
+enable: true
 topTitle: Testimonials
 title: >
   ## What People Say About Me
 
 testimonial:
-  - name: Justin Kurland, PhD
-    title: Lead Data Scientist, Northwestern Mutual 
-    image: "/images/testimonial/justin.jpg"
-    comment: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+  - name: Matt Dancho 
+    title: Founder of Business Science
+    image: #"/images/testimonial/matt.jpg"
+    comment: "Plamen is a great data scientist and project manager. He’s been a big help on our
+Pytimetk project which is an open-source initiative to improve time series
+forecasting. Plamen implemented a GitHub project management and tracking to
+keep the 6+ active team members organized. He’s also helped guide the technical
+aspects and communicate with a global team. Plamen’s help has been valuable
+and he will do great on complex data science projects. "
     star: 5
-  - name: Chris Selig
-    title: Data Scientist
-    image: "/images/testimonial/chris.jpg"
-    comment: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+  - name: Vera Varga
+    title: HR Business Partner and Consultant
+    image: #"/images/testimonial/chris.jpg"
+    comment: "Combining solid data science skills and business acumen, Plamen delivered eye-
+opening insights about the hidden costs of our HR turnover, backed by a
+comprehensive report and a game-changing web app for employee segmentation.
+His expertise in project leadership, data science/AI, and business strategy makes
+him an invaluable business partner. I highly recommend Plamen to anyone looking
+to significantly improve operational efficiency."
     star: 5
-  - name: Mohana Krishna Chittoor
-    title: Lead Data Scientist, Money View
-    image: "/images/testimonial/mohana.jpg"
-    comment: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+  - name: Slavi Chankov
+    title: BI and Data Visualization Expert
+    image: #"/images/testimonial/mohana.jpg"
+    comment: "Plamen has demonstrated exceptional expertise and innovation in technology and
+data science at Blankfactor, particularly in Snowflake designs, system integration
+and Shiny machine learning applications, significantly contributing to our projects'
+success. His technical skills, combined with his ability to inspire and collaborate
+with teams, make him a standout professional whose impact extends beyond his
+work to fostering a positive and productive workplace culture. His track record
+speaks for itself, and I'm confident he will bring the same level of exceptional
+performance and commitment to any future endeavors."
     star: 5

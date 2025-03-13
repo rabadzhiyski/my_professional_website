@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Plamen Rabadzhiyski</title>
+    <link>//localhost:4321/portfolio/</link>
+    <description>Recent content in Portfolios on Plamen Rabadzhiyski</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2022 12:49:27 +0600</lastBuildDate>
+    <atom:link href="//localhost:4321/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HR Employee Segmentation</title>
+      <link>//localhost:4321/portfolio/project-01/</link>
+      <pubDate>Mon, 12 Dec 2022 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-01/</guid>
+      <description>&lt;h4 id=&#34;check-my-data-science-portfolio&#34;&gt;&lt;a href=&#34;https://shiny.plamenr.com/&#34;&gt;Check My Data Science Portfolio&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h2 id=&#34;project-requirements&#34;&gt;Project Requirements&lt;/h2&gt;&#xA;&lt;p&gt;✅ Shiny Web Applications&lt;/p&gt;&#xA;&lt;p&gt;✅ R and Python&lt;/p&gt;&#xA;&lt;p&gt;✅ Unsupervised Machine Learning (DBSCAN)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Product Price Recommendation</title>
+      <link>//localhost:4321/portfolio/project-02/</link>
+      <pubDate>Tue, 01 Nov 2022 12:49:27 +0600</pubDate>
+      <guid>//localhost:4321/portfolio/project-02/</guid>
+      <description>&lt;h4 id=&#34;check-my-data-science-portfolio&#34;&gt;&lt;a href=&#34;https://shiny.plamenr.com/&#34;&gt;Check My Data Science Portfolio&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;h2 id=&#34;project-requirements&#34;&gt;Project Requirements&lt;/h2&gt;&#xA;&lt;p&gt;✅ Shiny Web Applications&lt;/p&gt;&#xA;&lt;p&gt;✅ R&lt;/p&gt;&#xA;&lt;p&gt;✅ Product Gap Analysis using Machine Learning (XGBoost)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

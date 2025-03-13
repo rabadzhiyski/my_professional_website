@@ -20,16 +20,15 @@ tab2Target: education
 experience:
   - content: >
   
-      ### Data Science Consultant
+      ### Consultant
       
       #### [Data Science AI](https://data-science-ai.com/) 
       
-      - Helps companies unlock their growth potential through data science and AI
+      - I help companies unlock their growth potential through data science and AI.
       
-      - Translates complex technical concepts into actionable insights for business leaders.
+      - I translate complex technical concepts into actionable insights for business leaders.
       
-      - Works with diverse businesses to design and build strategic data-driven decision-making systems 
-      (See [Testimonials](#testimonial)).
+      - I work with diverse businesses to design and build strategic AI and data science solutions.
     time: 2023-Present
   - content: >
       ### Senior Data Scientist / Data Officer
@@ -38,7 +37,7 @@ experience:
       
       - Developed data applications, turning business needs into data solutions.
 
-      - Identified __$640k in turnover savings__; launched an R & Python web app with H2O and tidy models.
+      - Identified __$640k in turnover savings__; launched an R & Python web app with H2O automated machine learning.
       
       - Designed a Snowflake cloud architecture, enhancing data science and AI integration.
       
@@ -84,18 +83,13 @@ experience:
 
 education:
   - content: >
-      #### Master of Business Administration (MBA)
-
-      Nantes University, France
-      
-    time: 2009
-  - content: >
       #### Technical Certifications
 
       Data Scientist Professional, MS Azure AI Fundamentals, Snowflake SnowPro Core, 
-      Data and AI Technical Strategist
+      Data and AI Technical Strategist, Certified Data Scientist for Business, Advanced Marketing Mix Modeling using Meta's Robyn. 
     
     time: 2019-Present
+
   - content: >
       #### Process & Project Management
 
@@ -103,4 +97,11 @@ education:
       Professional Scrum Master I, PRINCE2 Practitioner
       
     time: 2011-Present
+    
+  - content: >
+      #### Master of Business Administration (MBA)
+
+      Nantes University, France
+      
+    time: 2009
   

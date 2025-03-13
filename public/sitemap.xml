@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:4321/blog/data-driven-success/</loc>
+    <lastmod>2023-08-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2023-08-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/blog/</loc>
+    <lastmod>2023-08-13T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/</loc>
+    <lastmod>2022-12-12T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/portfolio/project-01/</loc>
+    <lastmod>2022-12-12T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/portfolio/</loc>
+    <lastmod>2022-12-12T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/web-apps-machine-learning/</loc>
+    <lastmod>2022-12-12T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/portfolio/project-02/</loc>
+    <lastmod>2022-11-01T12:49:27+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
+  </url>
+</urlset>

@@ -1,17 +1,14 @@
 ---
 enable: true
-topTitle: Data Scientist, Enterprise Architect, Consultant
+topTitle: Consultant, Data Science & AI
 content: >
   # Hi, I'm Plamen
 
-  From Lean Six Sigma projects to data science solutions, 
-  I've turned complex business problems into strategic opportunities. My key to success? 
-  Bridging the gap between business and technology. With expertise in project leadership, data science, 
-  and business strategy, 
-  I help companies unlock their potential using data-driven decision-making.
-buttonName: Contact Plamen
+  I help busy professionals and entrepreneurs find an easy way
+  to transform information overload into strategic advantage with data science and AI.
+buttonName: Join My Newsletter
 buttonIcon: 'fa fa-envelope'
-buttonURL: "#contact"
+buttonURL: https://data-science-ai.kit.com/newsletter
 image: images/hero/photo_twitter.jpg
 # videoThumb: images/hero/data-science.gif
 # videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU

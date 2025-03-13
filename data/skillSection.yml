@@ -5,16 +5,16 @@ content: >
   ## What I Can Do
 
   I have a strong background in data science, machine learning, enterprise architecture, and business problem-solving. 
-  I mainly use R, Python, Shiny, and Cloud Technologies (Azure/AWS/GCP). 
+  I mainly use R, Python, Shiny, and Cloud Technologies. 
 
 image: images/hero/photo_twitter_2.jpg
 
 skill:
-  - title: R
-    percent: 90
-  - title: Python
-    percent: 80
-  - title: Shiny Apps
-    percent: 90
-  - title: Cloud Technologies
-    percent: 75
+  - title: Data & AI Strategy
+    percent: 100
+  - title: Consulting Expertise
+    percent: 100
+  - title: Advanced Analytics
+    percent: 100
+  - title: AI Business Process Automation
+    percent: 100

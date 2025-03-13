@@ -4,18 +4,22 @@ topTitle: About
 title: >
   ## Who is Plamen?
 
-  Plamen Rabadzhiyski is a business-forward problem solver with over 10+ years of experience working with Fortune 50 companies and SMBs from all over the world.
+  Plamen Rabadzhiyski is a business-forward problem solver with over 10+ years of experience 
+  working with Fortune 50 companies and SMBs from all over the world.
 content: >
-  ### I design and build robust data science products.
+  ### I design and build robust data science solutions.
 
-  I love helping companies and people. My passion is data science. But, when I am not consulting or building software, I enjoy spending time with my family and friends.
+  I love helping companies and people. My passion is data science. But, when I am not consulting 
+  or building software, I enjoy spending time with my family and friends.
   
   
-  My area of focus is applying data science to business. I create value for companies by understanding the financial cost of problems and delivering a return-on-investment with my solutions. I enjoy learning, working with stakeholders, and making better decisions with data.
-button1Name: Consulting
-button2Name: Data Science Projects
-button1Target: https://data-science-ai.com/
+  My area of focus is applying AI and data science to business. I create value by 
+  understanding the financial cost of problems and delivering a return-on-investment with my solutions. 
+  I enjoy learning, working with people, and using technology to solve problems.
+button1Name: Let's talk
+button2Name: Portfolio
+button1Target: https://data-science-ai.com/applynow/
 # button2Target: "/cv/resume-matt.pdf"
-button2Target: https://shiny.plamenr.com/
+button2Target: '#portfolio'
 image: images/hero/photo_twitter.jpg
 imageMaskPosition: 70px 0px

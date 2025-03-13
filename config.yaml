@@ -20,25 +20,25 @@ menu:
     - name: Experience
       url: '#resume'
       weight: 5
-    - name: Useful
-      url: 'blog'
-      weight: 6
+    #- name: Useful
+     # url: 'blog'
+      #weight: 6
     - name: Blog
       url: https://data-science-ai.com/blog/
-      weight: 7
-  sitemap:
-    - name: Home
-      url: /
+      weight: 6
+  sitemap: # change name in the 'footer.html'
+    - name: Newsletter
+      url: https://data-science-ai.kit.com/newsletter #/
       weight: 1
-    - name: eBooks
-      url: blog
+    - name: Blog
+      url: https://data-science-ai.com/blog/
       weight: 2
 
 params:
   blogPageURL: blog
-  contactButtonLabel: Contact Plamen
-  contactLink: '#contact'
-  copyright: All right reserved copyright © Plamen Rabadzhiyski 2024
+  contactButtonLabel: Join My Newsletter
+  contactLink: https://data-science-ai.kit.com/newsletter #'#contact'
+  copyright: All rights reserved. Copyright © Plamen Rabadzhiyski, 2025.
   footerLogo: images/site-navigation/PlamenLogo.png
   formspreeURL: https://formspree.io/f/xjvqrvbb
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
@@ -55,4 +55,4 @@ params:
       weight: 3
       
       
-  
+# <script async data-uid="d14c77e73e" src="https://data-science-ai.kit.com/d14c77e73e/index.js"></script>
